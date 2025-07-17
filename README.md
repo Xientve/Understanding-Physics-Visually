@@ -11,10 +11,10 @@ Welcome, physics cadet! This is a collection of beginner-friendly **Jupyter note
 This repository includes notebooks that break down important topics in modern and classical physics using clear, interactive graphs.
 
 ### Current Notebooks:
-- 🔹 **Fermi-Dirac Distribution** — Visualize how particles behave at quantum scales
-- 🔹 **Binding Energy per Nucleon** — See what holds a nucleus together
-- 🔹 **Solving Schrödinger Equations** — Quantum wavefunctions and probability
-- 🔹 More coming soon...
+- **Fermi-Dirac Distribution** — Visualize how particles behave at quantum scales
+- **Binding Energy per Nucleon** — See what holds a nucleus together
+- **Solving Schrödinger Equations** — Quantum wavefunctions and probability
+- More coming soon...
 
 ---
 
