@@ -58,4 +58,5 @@ To run these notebooks locally, you'll need:
 
 You can install the basics with:
 ```bash
-pip install numpy matplotlib jupyter
+# Install Python packages needed to run the notebooks
+pip install -r requirements.txt
