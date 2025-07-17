@@ -34,7 +34,7 @@ You don’t need to be a coding wizard. Just follow the setup below and you’re
 ### Option 1: Run locally
 1. Download or clone this repo:
     ```bash
-    git clone https://github.com/your-username/understanding-physics-visually.git
+    git clone https://github.com/your-username/Understanding-Physics-Visually.git
     ```
 2. Open the folder in [Jupyter Notebook](https://jupyter.org/) or [JupyterLab](https://jupyterlab.readthedocs.io/).
 3. Click on any notebook (`.ipynb`) and run the cells to interact with the plots.
