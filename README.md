@@ -20,7 +20,7 @@ This repository includes notebooks that break down important topics in modern an
 
 ## Who is This For?
 
-- **Physics students** (undergrad or high school)
+- **Physics students**
 - **Teachers** who want classroom-ready visuals
 - **Self-learners** who prefer visual intuition over dry math
 - Anyone with a curiosity for the universe!
