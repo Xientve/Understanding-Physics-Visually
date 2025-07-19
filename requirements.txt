@@ -3,3 +3,4 @@ matplotlib>=3.7
 scipy>=1.10
 sympy>=1.12
 jupyterlab>=4.0
+plotly>=5.15
