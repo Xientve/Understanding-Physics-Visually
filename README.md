@@ -51,7 +51,7 @@ To run these notebooks locally, you'll need:
 
 - `Python 3.x`
 - `Jupyter`
-- `matplotlib`
+- `matplotlib or plotly`
 - `numpy`
 - `scipy` (optional for some notebooks)
 - `sympy` (optional for symbolic math)
